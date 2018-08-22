@@ -1,29 +1,8 @@
 {
-  "name": "scraper",
+  "name": "Scraper",
   "version": "1.0.0",
-  "description": "## Overview An app that scrapes articles from the New York Times website and lets users save articles and leave comments on the latest news.",
-  "main": "server.js",
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.2",
-    "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
-    "mongoose": "^5.2.9",
-    "morgan": "^1.9.0",
-    "request": "^2.88.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MichaelOchoaII/Scraper.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MichaelOchoaII/Scraper/issues"
-  },
-  "homepage": "https://github.com/MichaelOchoaII/Scraper#readme"
+  "main": "index.js",
+  "repository": "https://github.com/MichaelOchoaII/Scraper.git",
+  "author": "Michael Ochoa <jdmmike@me.com>",
+  "license": "MIT"
 }
